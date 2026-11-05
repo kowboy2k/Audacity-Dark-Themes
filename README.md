@@ -52,6 +52,8 @@ and installs the `mod-sombre` module. Then pick **Dark** in Audacity's preferenc
 > This project is not affiliated with Audacity or Muse Group. Audacity® is a trademark of Muse Group. The original theme
 > images (`base` folder) come from the Audacity project, under the GPL.
 
+---
+
 ## 🇫🇷 Enfin.
 
 <p align="center"><img src="docs/demo-fr.svg" alt="Thèmes sombres pour Audacity : démonstration animée" width="900"></p>
