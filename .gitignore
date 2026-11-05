@@ -1,0 +1,7 @@
+CLAUDE - instructions*.txt
+dll/
+__pycache__/
+module/*.obj
+module/*.lib
+module/*.exp
+*.zip
