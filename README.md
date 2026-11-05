@@ -102,6 +102,13 @@ and installs the `mod-sombre` module. Then pick **Dark** in Audacity's preferenc
 > This project is not affiliated with Audacity or Muse Group. Audacity® is a trademark of Muse Group. The original theme
 > images (`base` folder) come from the Audacity project, under the GPL.
 
+## ☕ Soutenir mon travail · Support my work
+
+🇫🇷 Tout est gratuit, et le restera. Si Audacity Dark Themes vous rend service, un café sur Ko-fi m'aide à continuer.
+🇬🇧 Everything is free, and will stay free. If Audacity Dark Themes helps you, a coffee on Ko-fi helps me keep going.
+
+<p align="center"><a href="https://ko-fi.com/kowboy2k"><img src="https://img.shields.io/badge/Ko--fi-Offrir%20un%20caf%C3%A9%20%C2%B7%20Buy%20me%20a%20coffee-FF5E5B?logo=ko-fi&logoColor=white&style=for-the-badge" alt="Ko-fi : offrir un café / buy me a coffee"></a></p>
+
 ---
 
 Licence **GPL-3.0** : libre, et ses copies le restent aussi. · **GPL-3.0** licence: free, and so are its copies.
